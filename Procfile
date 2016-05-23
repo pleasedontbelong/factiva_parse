@@ -1,0 +1,1 @@
+web: gunicorn factiva_parse.wsgi --log-file -
